@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham 
 - 👀 I’m interested in Cloud Computing. 
-- 🌱 I’m currently learning cloud technologies. 
+- 🌱 I’m currently learning Cloud Technologies. 
 - 😄 Pronouns: He/Him/His
 - ⚡ AWS | Jenkins | Docker | Java | Kubernetes | MySql | Terraform 
 
