@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shu1605&label=Profile%20views&color=0e75b6&style=flat" alt="shu1605" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes and Docker**
+- 🌱 I’m currently learning **Kubernet and Docker**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **sladukar17@gmail.com**
+- 📫 You could reach me **sladukar17@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
