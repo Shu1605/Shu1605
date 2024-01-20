@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center">Hi 👋, I'm Shubham Ladukar</h1>
+<h1 align="center">Hi👋, I'm Shubham Ladukar</h1>
 <h3 align="center">A passionate Cloud Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kubernet and Docker**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Networking & Java**
 
 - 📫 You could reach me **sladukar17@gmail.com**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shubham-ladukar-5b4b6886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-ladukar-5b4b6886" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-ladukar-5b4b6886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-ladukar-5b4b6886" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhaml.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhaml.exe" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shubhaml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shubhaml" height="30" width="40" /></a>
+<a href="https://hashnode.com/@shubhaml" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hashnode_logo_icon_169051.png" alt="@shubhaml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
